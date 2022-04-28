@@ -1,4 +1,8 @@
 {
+    "meta": {
+        "name": "Test Package",
+        "author": "iiPython"
+    },
     "makedir": [
         "/Programs/TestPackage"
     ],
