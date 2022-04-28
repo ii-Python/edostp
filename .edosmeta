@@ -1,0 +1,12 @@
+{
+    "makedir": [
+        "/Programs/TestPackage"
+    ],
+    "extract": {
+        "bin/*": "/Programs/TestPackage"
+    },
+    "pathctl": {
+        "add": ["/Programs/TestPackage"]
+    },
+    "postinstall": "coolprogram"
+}
