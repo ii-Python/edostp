@@ -12,5 +12,6 @@
     "pathctl": {
         "add": ["/Programs/TestPackage"]
     },
-    "postinstall": "coolprogram"
+    "postinstall": "coolprogram",
+    "dependencies": ["ii-Python/edostp"]
 }
