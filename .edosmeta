@@ -1,7 +1,8 @@
 {
     "meta": {
         "name": "Test Package",
-        "author": "iiPython"
+        "author": "iiPython",
+        "id": "edostp"
     },
     "makedir": [
         "/Programs/TestPackage"
