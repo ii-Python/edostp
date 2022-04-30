@@ -13,5 +13,7 @@
     "pathctl": {
         "add": ["/Programs/TestPackage"]
     },
-    "postinstall": "coolprogram"
+    "steps": {
+        "post": "coolprogram"
+    }
 }
